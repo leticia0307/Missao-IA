@@ -10,8 +10,8 @@
         <div class="caixa-principal">
             <h1>Você decide o futuro da IA</h1>
             <div class="caixa-perguntas"></div>
-        </div> class="caixa-alternativas"></div>
-        <div class="caixa-resultado">
+            <div class="caixa-alternativas"></div>
+            <div class="caixa-resultado">
             <p class="texto-resultado"></p>
         </div>
         </div>
